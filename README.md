@@ -6,7 +6,9 @@
 
 ### A Passionate Fullstack Developer from Sri Lanka 🇱🇰 | Crafting Engaging and User-Friendly Web Experiences
 
-- 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering**.
+- 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering** at SLIIT.
+
+- 🎓 Undergraduate, **BSc (Hons) in Computer Science** at University of Kelaniya.
 
 - 🔧 Passionate about **software development**, **coding**, and **problem-solving**.
 
