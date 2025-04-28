@@ -36,7 +36,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ThisalFernando39" height="30" width="40" />
     </a>
     <a href="https://github.com/ThisalFernando/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ravindu_rashmika_" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ThisalFernando" height="30" width="40" />
     </a>
   </div>
   
@@ -99,6 +99,6 @@
   <br>
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="thisalfernando" border="0" width="43%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisalfernando&theme=radical" alt="thisalfernando" border="0" width="43%" />
   <img src="https://github-readme-stats.vercel.app/api?username=thisalfernando&show_icons=true&locale=en&theme=radical" alt="thisalfernando" border="0" width="40.5%" />
 </p>
