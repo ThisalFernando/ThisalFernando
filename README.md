@@ -6,9 +6,9 @@
 
 ### A Passionate Fullstack Developer from Sri Lanka 🇱🇰 | Crafting Engaging and User-Friendly Web Experiences
 
-- 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering** at SLIIT.
+- 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering** at **SLIIT**.
 
-- 🎓 Undergraduate, **BSc (Hons) in Computer Science** at University of Kelaniya.
+- 🎓 Undergraduate, **BSc (Hons) in Computer Science** at **University of Kelaniya (UOK)**.
 
 - 🔧 Passionate about **software development**, **coding**, and **problem-solving**.
 
@@ -22,7 +22,7 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
 - 📄 Know about my experiences: [My Resume](https://mysliit-my.sharepoint.com/:b:/g/personal/it22244802_my_sliit_lk/EeNBlaHtj_pLhuOfMRvGxd0BA20VJa1ovj_aX1d8KrL5RA?e=TmAjrQ)
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" width="30%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisalfernando&show_icons=true&locale=en&layout=compact&theme=radical" alt="thisalfernando" width="30%"/>
 - ⚡ Fun fact: **I think I am funny. 😄**
 
   
